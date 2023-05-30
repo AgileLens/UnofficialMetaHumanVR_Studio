@@ -1,5 +1,5 @@
-# MetaHumanVR_Studio
- A template for creating your own MetaHuman VR shows using Meta Quest Pro
+# Unofficial MetaHumanVR Studio
+ A template for creating your own MetaHuman VR shows using Meta Quest Pro. Not affiliated or endorsed by Epic Games.
 
 Requires the Meta XR plugin:
 https://developer.oculus.com/downloads/package/unreal-engine-5-integration/
