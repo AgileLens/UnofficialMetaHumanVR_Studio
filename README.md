@@ -17,4 +17,6 @@ J toggles hair strands or hair cards
 0 cycles some quality settings
 
 
+Here's a sample of when it was used: https://www.youtube.com/watch?v=-CTJRABULdI&t=4437s
+
 First pass made by Alex Coulombe, but I'm sure hoping you do some neat stuff with it next.
