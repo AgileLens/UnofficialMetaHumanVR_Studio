@@ -1,0 +1,25 @@
+EXPORT
+Build
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+WindowsNoEditor
+Android
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+*.7z
+*.log
+Content/Cinematics/MD/GarmentAnim700_3499.uasset
+Build/WindowsNoEditor/FileOpenOrder/EditorOpenOrder.log
+*.log
+*.wav
+EXPORT/12-10 Audio/scroogepresentfuture-1210.wav
