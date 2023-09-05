@@ -4,11 +4,13 @@
 Requires the Meta XR plugin:
 https://developer.oculus.com/downloads/package/unreal-engine-5-integration/
 
-Download (blue button upper right) and then place either in your 5.1 Unreal Engine/Plugins folder or create a 'Plugins' folder for the project and put it there.
+Download (blue button upper right) and then place either in your 5.2 Unreal Engine/Plugins folder or in the empty 'Plugins' folder.
 
 In project, press Play in VR with your Meta Quest Pro active.
 
 Press Spacebar to cycle the two cameras (control this in the modified Spectator Cam BP).
+
+Tab to toggle on the Spectator Camera
 
 1-9 change VR pixel density
 
